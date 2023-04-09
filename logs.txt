@@ -1,0 +1,157 @@
+master
+
+commit a37e571a898d414ccad817f3cb801c58aca024ab (HEAD -> master, origin/master)
+Merge: a42999c 0175d69
+Author: Stojilkova Sara <sara.stojilkova.students.finki.ukim.mk>
+Date:   Sun Apr 9 21:05:53 2023 +0200
+
+    Merge branch 'bug3'
+
+commit a42999c645691fae146aacdd325573ec65d0f4d3
+Merge: 7ee24f4 af1bc3a
+Author: Stojilkova Sara <sara.stojilkova.students.finki.ukim.mk>
+Date:   Sun Apr 9 20:55:20 2023 +0200
+
+    Merge branch 'bug2'
+    merging bug 2 in master
+
+commit 0175d69706cbd451dbc1ac48e3c4ef9df73d8da8 (bug3)
+Author: Stojilkova Sara <sara.stojilkova.students.finki.ukim.mk>
+Date:   Sun Apr 9 19:26:06 2023 +0200
+
+    Fix method sumEvenNumbers
+
+commit af1bc3a2f8388b0de68f3584bee70e958b693692 (bug2)
+Author: Stojilkova Sara <sara.stojilkova.students.finki.ukim.mk>
+Date:   Sun Apr 9 19:24:49 2023 +0200
+
+    Fix wrong condition in filterOddNumbers
+
+commit 7ee24f452625fc6b46fad2dc5d4129ab3992df55 (bug1)
+Author: Stojilkova Sara <sara.stojilkova.students.finki.ukim.mk>
+Date:   Sun Apr 9 19:23:06 2023 +0200
+
+    Fix wrong loop for reading
+
+commit 3053bf6952c26bf6d35b942aa5b34342827eee0e
+Author: Stojilkova Sara <sara.stojilkova.students.finki.ukim.mk>
+Date:   Sun Apr 9 19:19:55 2023 +0200
+
+    Add java class
+
+commit 94f85ae87304634f0cf79143d4f1e0e5f1525e4d
+Author: StojilkovaSara <129992678+StojilkovaSara@users.noreply.github.com>
+Date:   Sun Apr 9 19:17:00 2023 +0200
+
+    Delete Readme.txt
+
+commit fe0646b839741a0ba1a7f5a4849bd975bef70c93
+Author: StojilkovaSara <129992678+StojilkovaSara@users.noreply.github.com>
+Date:   Sun Apr 9 19:16:45 2023 +0200
+
+    Initial commit
+
+commit c21a6ea61851bbd5f9a7f3f93c62c6b8bc3912b1
+Author: Stojilkova Sara <sara.stojilkova.students.finki.ukim.mk>
+Date:   Sun Apr 9 19:14:29 2023 +0200
+
+    aaa
+
+_________________________________________________________________________________________________________________________________________________________________
+bug1
+
+commit 7ee24f452625fc6b46fad2dc5d4129ab3992df55 (HEAD -> bug1)
+Author: Stojilkova Sara <sara.stojilkova.students.finki.ukim.mk>
+Date:   Sun Apr 9 19:23:06 2023 +0200
+
+    Fix wrong loop for reading
+
+commit 3053bf6952c26bf6d35b942aa5b34342827eee0e
+Author: Stojilkova Sara <sara.stojilkova.students.finki.ukim.mk>
+Date:   Sun Apr 9 19:19:55 2023 +0200
+
+    Add java class
+
+commit 94f85ae87304634f0cf79143d4f1e0e5f1525e4d
+Author: StojilkovaSara <129992678+StojilkovaSara@users.noreply.github.com>
+Date:   Sun Apr 9 19:17:00 2023 +0200
+
+    Delete Readme.txt
+
+commit fe0646b839741a0ba1a7f5a4849bd975bef70c93
+Author: StojilkovaSara <129992678+StojilkovaSara@users.noreply.github.com>
+Date:   Sun Apr 9 19:16:45 2023 +0200
+
+    Initial commit
+
+commit c21a6ea61851bbd5f9a7f3f93c62c6b8bc3912b1
+Author: Stojilkova Sara <sara.stojilkova.students.finki.ukim.mk>
+Date:   Sun Apr 9 19:14:29 2023 +0200
+
+    aaa
+
+__________________________________________________________________________________________________________________________________________________________________
+bug2
+
+commit af1bc3a2f8388b0de68f3584bee70e958b693692 (HEAD -> bug2)
+Author: Stojilkova Sara <sara.stojilkova.students.finki.ukim.mk>
+Date:   Sun Apr 9 19:24:49 2023 +0200
+
+    Fix wrong condition in filterOddNumbers
+
+commit 3053bf6952c26bf6d35b942aa5b34342827eee0e
+Author: Stojilkova Sara <sara.stojilkova.students.finki.ukim.mk>
+Date:   Sun Apr 9 19:19:55 2023 +0200
+
+    Add java class
+
+commit 94f85ae87304634f0cf79143d4f1e0e5f1525e4d
+Author: StojilkovaSara <129992678+StojilkovaSara@users.noreply.github.com>
+Date:   Sun Apr 9 19:17:00 2023 +0200
+
+    Delete Readme.txt
+
+commit fe0646b839741a0ba1a7f5a4849bd975bef70c93
+Author: StojilkovaSara <129992678+StojilkovaSara@users.noreply.github.com>
+Date:   Sun Apr 9 19:16:45 2023 +0200
+
+    Initial commit
+
+commit c21a6ea61851bbd5f9a7f3f93c62c6b8bc3912b1
+Author: Stojilkova Sara <sara.stojilkova.students.finki.ukim.mk>
+Date:   Sun Apr 9 19:14:29 2023 +0200
+
+    aaa
+
+_________________________________________________________________________________________________________________________________________________________________
+bug3
+
+commit 0175d69706cbd451dbc1ac48e3c4ef9df73d8da8 (HEAD -> bug3)
+Author: Stojilkova Sara <sara.stojilkova.students.finki.ukim.mk>
+Date:   Sun Apr 9 19:26:06 2023 +0200
+
+    Fix method sumEvenNumbers
+
+commit 3053bf6952c26bf6d35b942aa5b34342827eee0e
+Author: Stojilkova Sara <sara.stojilkova.students.finki.ukim.mk>
+Date:   Sun Apr 9 19:19:55 2023 +0200
+
+    Add java class
+
+commit 94f85ae87304634f0cf79143d4f1e0e5f1525e4d
+Author: StojilkovaSara <129992678+StojilkovaSara@users.noreply.github.com>
+Date:   Sun Apr 9 19:17:00 2023 +0200
+
+    Delete Readme.txt
+
+commit fe0646b839741a0ba1a7f5a4849bd975bef70c93
+Author: StojilkovaSara <129992678+StojilkovaSara@users.noreply.github.com>
+Date:   Sun Apr 9 19:16:45 2023 +0200
+
+    Initial commit
+
+commit c21a6ea61851bbd5f9a7f3f93c62c6b8bc3912b1
+Author: Stojilkova Sara <sara.stojilkova.students.finki.ukim.mk>
+Date:   Sun Apr 9 19:14:29 2023 +0200
+
+    aaa
